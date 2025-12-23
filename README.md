@@ -1,1 +1,1 @@
-# metode-pengurutan-kelas-hewan
+# koleksi python 2
